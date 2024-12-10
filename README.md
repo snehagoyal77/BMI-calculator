@@ -1,2 +1,2 @@
-# PBL-5th-Sem
-its a bmi calculator project
+# BMI-calci
+It's a BMI calculator project
